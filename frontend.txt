@@ -1,0 +1,10 @@
+src/
+  assets/         # Images, fonts, static files
+  components/     # Reusable UI components (Button, Navbar, etc.)
+  hooks/          # Custom React hooks
+  pages/          # Page-level components (LandingPage, Dashboard, etc.)
+  utils/          # Utility functions/helpers
+  App.js
+  App.css
+  index.js
+  index.css
