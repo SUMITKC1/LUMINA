@@ -21,7 +21,7 @@ LUMINA aims to revolutionize student productivity by providing an all-in-one pla
 ## 📱 Website Screenshots
 
 ### 🟣 Landing Page  
-![Landing Page](frontend/public/LUMINA.png)  
+![Landing Page](frontend/public/landing.png)  
 *A visually striking landing page with animated backgrounds and spark effects.*
 
 ---
